@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a computer engineering student at the University of Waterloo. I'm not great at updating these public profiles these days, but I'm currently an incoming intern at Amazon (specifically AWS), and previously interned at [SideFX](https://www.sidefx.com/) doing 3D R&D, [Cepton](https://www.cepton.com/) doing Lidar R&D, and [Wind River Systems](https://www.windriver.com/), doing Rust prototyping for VxWorks (Rust is now supported). 
+I'm a senior at the University of Waterloo, majoring in Computer Engineering. I'm not great at updating these public profiles these days, but I'm currently an intern at Amazon (specifically AWS), and previously interned at [SideFX](https://www.sidefx.com/) doing 3D R&D, [Cepton](https://www.cepton.com/) doing Lidar R&D, and [Wind River Systems](https://www.windriver.com/), doing Rust prototyping for VxWorks (Rust is now supported). 
 
 No follows, stars, or features otherwise are an endorsement of any form. Also any bad code here isn't mine. 
 
