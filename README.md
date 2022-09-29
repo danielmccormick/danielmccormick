@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm a senior at the University of Waterloo, majoring in Computer Engineering. I'm not great at updating these public profiles these days, but I'm recently interned at Amazon (specifically AWS) doing SDE, and previously interned at [SideFX](https://www.sidefx.com/) doing 3D R&D, [Cepton](https://www.cepton.com/) doing Lidar R&D, and [Wind River Systems](https://www.windriver.com/), doing prototyping for the InfoDev team. 
+I'm a recent graduate from the University of Waterloo, with a major in Computer Engineering. I'm not great at updating these public profiles these days, but I'm currently employed by Meta working on Messaging Infrastructure. I've done internships at Facebook/Meta (working on infra), Amazon (specifically AWS), and [SideFX](https://www.sidefx.com/) (doing 3D R&D), [Cepton](https://www.cepton.com/) (doing Lidar R&D), and [Wind River Systems](https://www.windriver.com/) (doing compiler prototyping)
+
+Most of my interesting repos at this point in time are private 😅
 
 No follows, stars, or features otherwise are an endorsement of any form. Also any bad code here isn't mine. 
 
